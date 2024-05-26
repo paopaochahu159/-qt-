@@ -1,0 +1,30 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>img/cloudy-light.png</file>
+        <file>img/dingwei.png</file>
+        <file>img/rili.png</file>
+        <file>img/chengshi.jpeg</file>
+        <file>img/baitianbeij.jpeg</file>
+        <file>img/yewanbeij.jpg</file>
+    </qresource>
+    <qresource prefix="/weather">
+        <file>img/weather/cloudy-light.png</file>
+        <file>img/weather/cloudy-night.png</file>
+        <file>img/weather/haze.png</file>
+        <file>img/weather/heavy rain.png</file>
+        <file>img/weather/Heavy snow.png</file>
+        <file>img/weather/Light snow.png</file>
+        <file>img/weather/moderate rain.png</file>
+        <file>img/weather/Moderate snow.png</file>
+        <file>img/weather/Overcast sky.png</file>
+        <file>img/weather/rainstorm.png</file>
+        <file>img/weather/sleet.png</file>
+        <file>img/weather/snow.png</file>
+        <file>img/weather/sunny-light.png</file>
+        <file>img/weather/sunny-night.png</file>
+        <file>img/weather/thundershower.png</file>
+    </qresource>
+    <qresource prefix="/new/prefix1">
+        <file>cityID.csv</file>
+    </qresource>
+</RCC>
